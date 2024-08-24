@@ -1,0 +1,32 @@
+.game-description {
+  padding: 20px;
+  background-color: #0e1015;
+  color: white;
+  margin: 30px;  /* Centraliza horizontalmente */
+  width: 80%;  /* Ajuste a largura conforme necessário */
+  max-width: 800px;  /* Ajuste a largura máxima conforme necessário */
+}
+
+.description-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.description-icon {
+  width: 16px;  /* Ajuste o tamanho conforme necessário */
+  height: 16px;
+  margin-right: 10px;
+}
+
+.description-title {
+  font-size: 18px;
+  font-family: 'Krona One', sans-serif;
+  text-transform: uppercase;
+}
+
+.description-text {
+  font-size: 16px;
+  font-family: 'Karla', sans-serif;
+  color: white;
+}
